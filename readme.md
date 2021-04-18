@@ -1,2 +1,2 @@
 # clases-nebrija-pdd-ll
-Repositorio de Guillermo Gallegos Gómez en el que se encuentran las Actividades Dirigidas 1 y 2. Ahora trabajando en local.
+Repositorio de Guillermo Gallegos Gómez en el que se encuentran las Actividades Dirigidas de Periodismo de Datos II. Ahora trabajando en local.
